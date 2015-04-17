@@ -1,21 +1,22 @@
-#Purpose Of This Book
+# Purpose Of This Book
 
-I have been working at helping teams and organizations to adopt Agile ways of working for close to 10 years now, usually in the role of a Scrum Master or Agile Coach. During this time, I have had the privilege of working with a lot of great teams. Being exposed to a lot of different environments has been a brilliant learning experience, as each organization is unique and therefore forces you to try new things and approaches in your efforts to support change. This book is about sharing the tool kit I have developed during this time.
+I have been working at helping teams and organisations to adopt Agile ways of working for close to 10 years now, usually in the role of a Scrum Master or Agile Coach. During this time, I have had the privilege of working with a lot of great teams. Being exposed to a lot of different environments has been a brilliant learning experience, as each organisation is unique and therefore forces you to try new things and approaches in your efforts to support change. This book is about sharing the tool kit I have developed during this time.
 
-Many of these tools were developed incrementally within teams I worked in, some literally taking years and exposure to a variety of organizations to reach the state they are in. My hope is to save you some of that time.
+Many of these tools were developed incrementally within teams I worked with, some literally taking years and exposure to a variety of organisations to reach their current state. My hope is to save you some of that time.
 
-Of course Agile is more a way of thinking than it is a particular tool or practice, but sometimes you simply have a problem you need to solve and getting a starting point will make a big difference, that is the purpose of this book.
+Of course Agile is more a way of thinking than it is a particular tool or practice, but sometimes you simply have a problem you need to solve and getting a starting point will make a big difference. That is the purpose of this book.
 
-Most of these tools are very simple and can be implemented in less time than it takes to read about them, but beware, the last thing you want to do is take all the things in this book and start doing them tomorrow. Some things will only help in a particular context, and everything requires those being affected to be on board with the change.
+Most of these tools are very simple and can be implemented in less time than it takes to read about them, but beware, the last thing you want to do is take all the things in this book and start doing them tomorrow. Some things will only help in a particular context, and everything requires that all individuals affected are on board with any change.
 
-The first chapter in this book is about what I call "Experiment Driven Change", you should consider this as the basis for the book and apply its principles when trying any of the other tools. This way of thinking has been instrumental to my career and has driven the creation of all the things that come after it in the book.
+The first chapter in this book is about what I call “Experiment Driven Change”; you should consider this as the basis for the book and apply its principles when trying any of the other tools. This way of thinking has been instrumental to my career and has driven the creation of all the things that come after it in the book.
 
-Some Practical Stuff
-Credit
-Not all of these tools were originally created by me, and basically all of them we iterated by a group of people. The credit section is to provide appreciation to others who were involved.
+# Some Practical Stuff
 
-Assumptions
+## Credit
+Not all of these tools were originally created by me, and basically all of them were iterated by a group of people. The credit section is to provide appreciation to others who were involved.
+
+## Assumptions
 This book also assumes you have some basic working knowledge of Agile practices, and that your are working or have worked in a team using some form of Agile. This should definitely not be your first book on the subject of Agile.
 
-Images
-In order to work for print images are scaled down, high resolution copies of all images can be found: <insert url>
+## Images
+For print, images are scaled down. High resolution copies of all images can be found: <insert url>
