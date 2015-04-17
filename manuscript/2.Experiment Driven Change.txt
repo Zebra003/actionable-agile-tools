@@ -15,11 +15,11 @@ If so, consider moving to Experiment Driven Change.
 If you are following this pattern, you are missing out on the value of a Retrospective. The most valuable thing about a retrospective if the frequency at which we have them. This allows us to do things differently than say in a project post mortem.
 
 ##Focus
-Since we are meeting with such frequency, we don’t have to treat this as our only opportunity to identify everything that is wrong in our organisation. Instead, we can focus only on one thing and try to have an impact on that. This has an important mental effect, because focusing on all the problems we have in the world is exhausting, and overwhelming. By focusing on one thing, we start to feel like the issues are more manageable.
+Since we are meeting with such frequency, we don’t have to treat this as our only opportunity to identify everything that is wrong in our organization. Instead, we can focus only on one thing and try to have an impact on that. This has an important mental effect, because focusing on all the problems we have in the world is exhausting, and overwhelming. By focusing on one thing, we start to feel like the issues are more manageable.
 Experiment
-But the biggest upside to meeting so frequently to discuss improvements is the approach we can take to those improvements. We don’t need to find the perfect solution to the issue we are discussing, we don’t need to form committees and build consensus across our organisation. As a matter of fact, we don’t even need to know our solution will work at all.
+But the biggest upside to meeting so frequently to discuss improvements is the approach we can take to those improvements. We don’t need to find the perfect solution to the issue we are discussing, we don’t need to form committees and build consensus across our organization. As a matter of fact, we don’t even need to know our solution will work at all.
 
-Because we are working in such small increments, the only thing we need to come up with at a Retrospective is something to try out for the next few weeks, an experiment. 
+Because we are working in such small increments, the only thing we need to come up with at a Retrospective is something to try out for the next few weeks, an experiment.
 
 Because we are only going to try this experiment for a limited amount of time, it’s very low impact of it actually makes things worse, that just means when we meet again we will decide not to do it any more. And if it happens to make things better, well, now we are on our way!
 
@@ -43,7 +43,7 @@ This is where we decided specific actionable things that we will do during the c
 
 In this example: We will be trying to put some numbers on the cost of these errors so that we can motivate their priority better.
 Success Criteria
-How will we know this change has worked? 
+How will we know this change has worked?
 
 We don’t want to simply know that we have done it, that doesn’t insure it’s an actual improvement, just that we did what we said we would do. It’s nice to have something measurable here, but that doesn’t mean we need complex metrics, a measurement can be as simple as “80% of the team agree this was a successful experiment”.
 In this example: Since we really want to fix some of these issues, we decided bugs prioritised was a good measurement.
@@ -54,10 +54,10 @@ The driver is not responsible to do all the work themselves, they are responsibl
 Repeat
 And that’s it!
 
-Do I know this change will work? 
+Do I know this change will work?
 No.
 
-You know what I know won’t work? 
+You know what I know won’t work?
 Doing nothing…
 Tips
 Learn more about Retrospectives to make best use of this tool.
@@ -70,4 +70,3 @@ Never volunteer someone else to act as driver.
 Do not always have the Scrum Master as the driver, teams need to feel responsible for their own improvement.
 Credit:
 The specific in this are done by myself, but this concept has been around long enough I wouldn’t even hazard a guess at who invented it.
-
