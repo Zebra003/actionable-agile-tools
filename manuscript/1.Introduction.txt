@@ -19,4 +19,3 @@ This book also assumes you have some basic working knowledge of Agile practices,
 
 Images
 In order to work for print images are scaled down, high resolution copies of all images can be found: <insert url>
-
