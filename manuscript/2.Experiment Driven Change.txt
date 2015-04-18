@@ -1,6 +1,6 @@
 # Experiment Driven Change
 
- - Do your Retrospectives go something like this?
+Do your Retrospectives go something like this?
  - Put a bunch of notes up on the board.
  - Discuss them.
  - Create a list of 10-15 problems.
