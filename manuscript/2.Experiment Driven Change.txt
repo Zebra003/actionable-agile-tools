@@ -83,6 +83,4 @@ Doing nothing…
  - Never volunteer someone else to act as driver.
  - Do not always have the Scrum Master act as the driver, teams need to feel responsible for their own improvement.
 
-
-## Credit:
-The specific in this are done by myself, but this concept has been around long enough I wouldn’t even hazard a guess at who invented it.
+A> **Credit:** The specific in this are done by myself, but this concept has been around long enough I wouldn’t even hazard a guess at who invented it.
