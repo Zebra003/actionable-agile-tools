@@ -1,4 +1,4 @@
-# Purpose Of This Book
+# Purpose of This Book
 
 I have been working at helping teams and organisations to adopt Agile ways of working for close to 10 years now, usually in the role of a Scrum Master or Agile Coach. During this time, I have had the privilege of working with a lot of great teams. Being exposed to a lot of different environments has been a brilliant learning experience, as each organisation is unique and therefore forces you to try new things and approaches in your efforts to support change. This book is about sharing the tool kit I have developed during this time.
 
@@ -10,13 +10,11 @@ Most of these tools are very simple and can be implemented in less time than it 
 
 The first chapter in this book is about what I call "Experiment Driven Change"; you should consider this as the basis for the book and apply its principles when trying any of the other tools. This way of thinking has been instrumental to my career and has driven the creation of all the things that come after it in the book.
 
-# Some Practical Stuff
-
-## Credit
+# Credit
 Not all of these tools were originally created by me, and basically all of them were iterated by a group of people. The credit section is to provide appreciation to others who were involved.
 
-## Assumptions
+# Assumptions
 This book also assumes you have some basic working knowledge of Agile practices, and that your are working or have worked in a team using some form of Agile. This should definitely not be your first book on the subject of Agile.
 
-## Images
-For print, images are scaled down. High resolution copies of all images can be found: <insert url>
+# Images
+High resolution copies of all images can be found here: <http://www.example.org>
