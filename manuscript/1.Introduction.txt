@@ -8,7 +8,7 @@ Of course Agile is more a way of thinking than it is a particular tool or practi
 
 Most of these tools are very simple and can be implemented in less time than it takes to read about them, but beware, the last thing you want to do is take all the things in this book and start doing them tomorrow. Some things will only help in a particular context, and everything requires that all individuals affected are on board with any change.
 
-The first chapter in this book is about what I call “Experiment Driven Change”; you should consider this as the basis for the book and apply its principles when trying any of the other tools. This way of thinking has been instrumental to my career and has driven the creation of all the things that come after it in the book.
+The first chapter in this book is about what I call "Experiment Driven Change"; you should consider this as the basis for the book and apply its principles when trying any of the other tools. This way of thinking has been instrumental to my career and has driven the creation of all the things that come after it in the book.
 
 # Some Practical Stuff
 
