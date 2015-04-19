@@ -2,3 +2,17 @@ frontmatter:
 01.Introduction.txt
 mainmatter:
 02.Experiment Driven Change.txt
+03.Door Calendar.txt
+04.Doing Dots.txt
+05.Bugs for Breakfast.txt
+06.Communication Protocol.txt
+07.Tasty Timeboxes.txt
+08.Where Does The Time Go.txt
+09.Event Log.txt
+10.Resilience Map.txt
+11.Recruitment Retrospectives.txt
+12.Appreciation Flowers.txt
+13.Value Poker.txt
+14.In-Line Definition of Done.txt
+15.Not Now Backlog.txt
+16.Visualised Flow.txt
