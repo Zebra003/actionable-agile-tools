@@ -1,19 +1,19 @@
 # Experiment Driven Change
 
-Do your Retrospectives go something like this?
+Finding ways to continuously improve the way we work is central to all Agile teams and organisations. Most teams use Retrospectives or similar meeting, but far too often those Retrospectives follow an unproductive pattern.
 
  - Put a bunch of notes up on the board.
  - Discuss them.
  - Create a list of 10-15 problems.
  - Agree those need to be improved.
  - Give that list the the Scrum Master or mail them to a manager.
- - Come back in a few weeks and have the same discussion again.
+ - Come back in a few weeks and **have the same discussion again**.
 
-If so, you will likely do this for a few months or years until finally someone in the team has the courage to say “Why do we even do this? Nothing changes as a result.”
-
-If so, consider moving to Experiment Driven Change.
+They do this for a few months or years until finally someone in the team has the courage to say “Why do we even do this? Nothing changes as a result.”
 
 If you are following this pattern, you are missing out on the value of a Retrospective. The most valuable thing about a retrospective is the frequency at which we have them. This allows us to do things differently than we would in something like a project post mortem.
+
+Consider moving to Experiment Driven Change.
 
 ## Focus
 Since we are meeting with such frequency, we don’t have to treat this as our only opportunity to identify everything that is wrong in our organisation. Instead, we can focus on only one thing and try to have an impact on that. This has an important mental effect, because focusing on all the problems we have in the world is exhausting and overwhelming. By focusing on one thing, we start to feel like the issues are more manageable.
