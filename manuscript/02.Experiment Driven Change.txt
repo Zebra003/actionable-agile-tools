@@ -1,6 +1,6 @@
 # Experiment Driven Change
 
-Finding ways to continuously improve the way we work is central to all Agile teams and organisations. Most teams use Retrospectives or similar meeting, but far too often those Retrospectives follow an unproductive pattern.
+Finding ways to continuously improve the way we work is central to all Agile teams and organisations. Most teams use Retrospectives or similar meetings, but far too often those meetings follow an unproductive pattern.
 
  - Put a bunch of notes up on the board.
  - Discuss them.
