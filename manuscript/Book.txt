@@ -1,18 +1,18 @@
 frontmatter:
-01.Introduction.txt
+01.Introduction.md
 mainmatter:
-02.Experiment Driven Change.txt
-03.Door Calendar.txt
-04.Doing Dots.txt
-05.Bugs for Breakfast.txt
-06.Communication Protocol.txt
-07.Tasty Timeboxes.txt
-08.Where Does The Time Go.txt
-09.Event Log.txt
-10.Resilience Map.txt
-11.Recruitment Retrospectives.txt
-12.Appreciation Flowers.txt
-13.Value Poker.txt
-14.In-Line Definition of Done.txt
-15.Not Now Backlog.txt
-16.Visualised Flow.txt
+02.Experiment Driven Change.md
+03.Door Calendar.md
+04.Doing Dots.md
+05.Bugs for Breakfast.md
+06.Communication Protocol.md
+07.Tasty Timeboxes.md
+08.Where Does The Time Go.md
+09.Event Log.md
+10.Resilience Map.md
+11.Recruitment Retrospectives.md
+12.Appreciation Flowers.md
+13.Value Poker.md
+14.In-Line Definition of Done.md
+15.Not Now Backlog.md
+16.Visualised Flow.md
