@@ -9,7 +9,7 @@ Finding ways to continuously improve the way we work is central to all Agile tea
  - Give that list the the Scrum Master or mail them to a manager.
  - Come back in a few weeks and **have the same discussion again**.
 
-They do this for a few months or years until finally someone in the team has the courage to say “Why do we even do this? Nothing changes as a result.”
+They do this for a few months or years until finally someone in the team has the courage to say "Why do we even do this? Nothing changes as a result."
 
 If you are following this pattern, you are missing out on the value of a Retrospective. The most valuable thing about a retrospective is the frequency at which we have them. This allows us to do things differently than we would in something like a project post mortem.
 
