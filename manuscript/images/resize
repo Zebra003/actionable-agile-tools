@@ -1,0 +1,5 @@
+#!/bin/sh
+
+FILENAME=$(basename $1)
+vipsthumbnail --size=1050x1800 --output=../$FILENAME $1
+

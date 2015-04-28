@@ -1,4 +1,22 @@
 #!/bin/sh
 
-find adjusted/ -type f | xargs -i{} ./resize {}
+./resize adjusted/appreciation-flowers.jpg
+./resize adjusted/communication-protocol-1.jpg
+./resize adjusted/communication-protocol-2.jpg
+./resize adjusted/doing-dots.jpg
+./resize adjusted/door-calendar.jpg
 
+# Resolution too low
+#./resize adjusted/event-log.jpg
+./resize adjusted/experiment-driven-change.jpg
+./resize adjusted/in-line-definition-of-done.png
+./resize adjusted/not-now-backlog.png
+./resize adjusted/resilience-map.jpg
+
+# Why bother, they are quite small anyway...
+#./resize adjusted/visualised-flow-1.png
+#./resize adjusted/visualised-flow-2.png
+#./resize adjusted/visualised-flow-3.png
+#./resize adjusted/visualised-flow-4.png
+#./resize adjusted/visualised-flow-5.png
+./resize adjusted/where-does-the-time-go.jpg
