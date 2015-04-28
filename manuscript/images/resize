@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# example usage:
+# ./resize adjusted/resilience-map.jpg
+
 FILENAME=$(basename $1)
 vipsthumbnail --size=1050x1800 --output=../$FILENAME $1
 
