@@ -10,6 +10,8 @@ Most of these tools are very simple and can be implemented in less time than it 
 
 The first chapter in this book is about what I call "Experiment Driven Change"; you should consider this as the basis for the book and apply its principles when trying any of the other tools. This way of thinking has been instrumental to my career and has driven the creation of all the things that come after it in the book.
 
+[ test. ]
+
 # Some Practical Stuff
 
 ## Credit
